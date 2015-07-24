@@ -3,12 +3,12 @@
 /**
  * PHP CLI Youtube Downloader Package
  * @author Moniruzzaman Monir <monir.smith@gmail.com>
+ * 
  */
 
 require 'autoload.php';
 
 fwrite(STDOUT, "Please enter video id : ");
-
 $id = trim(fgets(STDIN));
 
 $fetcher = new Fetcher();
