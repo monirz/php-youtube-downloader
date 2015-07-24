@@ -8,6 +8,7 @@ To download the video  from terminal run the download.php file
 Make the file executable 
  
  `$ chmod +X download.php`
+ 
  `$ ./download.php`
 
 just enter the video id then type the format key.
