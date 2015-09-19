@@ -23,6 +23,6 @@ To download video from your browser just browse the index.php and enter youtube 
 ## How it works
 
 As it is written in php it needs to have PHP installed to execute the application and for running it from the terminal you have to have 
-PHP CLI module installed.  
+libcurl(cURL) and PHP CLI module installed.  
 
 
